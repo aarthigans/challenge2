@@ -11,4 +11,4 @@ Url link:  https://aarthigans.github.io/challenge2/
 It's a Portfolio page with the Headers About Me, Projects, Resume and Contact Me. If you click each of these, it'll take us to the corresponding place. 
 If clicked the name of the project, it'll redirect to the project page.
 
-image.png
+
