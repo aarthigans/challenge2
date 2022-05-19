@@ -12,3 +12,4 @@ It's a Portfolio page with the Headers About Me, Projects, Resume and Contact Me
 If clicked the name of the project, it'll redirect to the project page.
 
 
+https://github.com/aarthigans/challenge2/blob/main/assets/images/Screenshot.png
